@@ -33,3 +33,10 @@ c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\
 c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\System.Web.WebPages.Razor.xml
 c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.dll
 c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.pdb
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalR.dll
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalR.Hosting.AspNet.dll
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalR.Hosting.Common.dll
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalR.xml
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalR.Hosting.AspNet.xml
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\bin\SignalR.Hosting.Common.xml
+c:\users\ryan\documents\visual studio 2012\Projects\SignalRDemo\SignalRDemo\obj\Debug\SignalRDemo.csprojResolveAssemblyReference.cache
