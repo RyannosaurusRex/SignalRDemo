@@ -2,7 +2,7 @@
 
 // Declare methods for the server to call ================
 hub.updatePage = function (message) {
-    $('#messages').append(message + '</ br>');
+    $('#messages').append(message + '<br />');
 };
 
 // END : Declarae methods for the server to call =========
