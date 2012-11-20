@@ -22,7 +22,7 @@ namespace SignalRDemo.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult TypeScript()
         {
             ViewBag.Message = "Your contact page.";
 

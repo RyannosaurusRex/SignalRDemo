@@ -212,6 +212,10 @@
     <Content Include="Scripts\knockout-2.0.0.debug.js" />
     <Content Include="Scripts\knockout-2.0.0.js" />
     <Content Include="Scripts\modernizr-2.0.6-development-only.js" />
+    <TypeScriptCompile Include="Scripts\typescriptDemo.ts" />
+    <Content Include="Scripts\typescriptDemo.js">
+      <DependentUpon>typescriptDemo.ts</DependentUpon>
+    </Content>
     <Content Include="Scripts\Web.config" />
     <Content Include="Scripts\Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -246,7 +250,7 @@
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="Views\Account\Register.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
-    <Content Include="Views\Home\Contact.cshtml" />
+    <Content Include="Views\Home\TypeScript.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
